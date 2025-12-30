@@ -5,3 +5,6 @@ __pycache__/
 *.pdb
 *.pkl
 *.p
+
+.ds_store
+.DS_Store
